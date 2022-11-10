@@ -64,8 +64,8 @@
                 <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
                         <h6 class="collapse-header">Custom Components:</h6>
-                        <a class="collapse-item" href="https://alfan.ananda-aditya.my.id/SIGudangObat/public//pages/table">Jumlah obat</a>
-                        <a class="collapse-item" href="https://alfan.ananda-aditya.my.id/SIGudangObat/public//pages/obatMasuk">Jumlah Obat Expire</a>
+                        <a class="collapse-item" href="https://alfan.ananda-aditya.my.id/SIGudangObat/public/pages/table">Jumlah obat</a>
+                        <a class="collapse-item" href="https://alfan.ananda-aditya.my.id/SIGudangObat/public/pages/obatMasuk">Jumlah Obat Expire</a>
                     </div>
                 </div>
             </li>
@@ -108,7 +108,7 @@
 
             <!-- Nav Item - Tables -->
             <li class="nav-item">
-                <a class="nav-link" href="https://alfan.ananda-aditya.my.id/SIGudangObat/public//pages/tentang">
+                <a class="nav-link" href="https://alfan.ananda-aditya.my.id/SIGudangObat/public/pages/tentang">
 
                     <span>Tentang Kami</span></a>
             </li>
